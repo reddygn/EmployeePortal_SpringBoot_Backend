@@ -47,5 +47,5 @@ jobs:
           java-version: '17'
 
 
-      - name: Build with Maven
+      - name: Build Employee Portal with Maven
         run: mvn clean install
